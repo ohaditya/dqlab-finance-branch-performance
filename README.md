@@ -334,15 +334,16 @@ Therefore, branch performance monitoring should combine branch-level metrics wit
 
 📂 Project Structure
 
-```text
-dqlab-finance-branch-performance/
-│
-├── README.md
-│
-└── dashboard/
-    └── DQLab-Finance-Branch-Performance.pdf
-```
+📁 dashboard
+   └── Project Data Analysis for Finance Performa Cabang.pdf
 
+📁 data
+   └── Project Data Analysis for Finance Performa Cabang.csv
+
+📁 powerbi
+   └── Project Data Analysis for Finance Performa Cabang.pbix
+
+📄 README.md
 ---
 
  📚 Project Reference
