@@ -307,7 +307,7 @@ This would allow management to identify performance issues earlier.
 
 The Power BI dashboard developed for this project is available below:
 
-[View Power BI Dashboard PDF](dashboard/DQLab-Finance-Branch-Performance.pdf)
+[View Power BI Dashboard PDF](./dashboard/Project%20Data%20Analysis%20for%20Finance%20Performa%20Cabang.pdf)
 
 The dashboard contains the main analysis covering:
 
